@@ -23,7 +23,6 @@
 }
 
 /* Menu */
-
 .menubar-menu-button .menubar-menu-title {
     font-family: 'Fira Code' !important;
 }
@@ -68,7 +67,7 @@
 /* Scroll Bar */
 .slider {
     position: absolute !important;
-    right: 3px !important;
+    right: 5px !important;
     width: 3px !important;
     left: auto !important;
 }
@@ -172,4 +171,10 @@
 
 .command-center-center {
     width:  auto !important;
+}
+
+/*Background*/
+.letterpress {
+	width: 30% !important;
+	max-height: 30% !important;
 }
