@@ -12,7 +12,7 @@
     "window.nativeFullScreen": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "workbench.editor.showTabs": "none",
+    "workbench.editor.showTabs": "multiple",
     "editor.minimap.enabled": false,
     "editor.guides.indentation": false,
 
