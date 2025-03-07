@@ -93,7 +93,7 @@
     "editor.cursorBlinking": "solid",
     "editor.stickyScroll.enabled": false,
     "vscode_custom_css.imports": [
-        "file:///C:/Users/ron/Documents/VSCode/custom-vscode.css"
+        "file:///C:/VSCode/custom-vscode.css"
     ],
     "editor.experimentalInlineEdit.fontFamily": "Fira Code",
     "editor.codeLensFontFamily": "Fira Code",
