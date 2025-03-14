@@ -102,5 +102,6 @@
     "debug.console.fontFamily": "Fira Code",
     "terminal.integrated.fontFamily": "Fira Code",
     "window.newWindowProfile": "Default",
-    "workbench.tree.enableStickyScroll": false
+    "workbench.tree.enableStickyScroll": false,
+    "editor.wordWrap": "on"
 }
